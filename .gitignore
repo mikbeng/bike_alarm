@@ -1,0 +1,5 @@
+sdkconfig
+sdkconfig.old
+# Build directory including all subdirectories
+build/
+.vscode/
